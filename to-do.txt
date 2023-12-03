@@ -1,0 +1,13 @@
+TO DO main.py
+# add GUI set up
+# input for date range in first window of GUI
+# once user inputs date range, run retrieve_senders()
+# display sender emails with checkbox (default all selected) in the new GUI window
+# once all sender emails vetted, append the senders to a file
+# unsubscribe button at the button that runs unsubsribe.py based on the sender file
+
+TO DO unsubscribe.py
+# Iterate through inbox once more
+# If message.sender is in the senders.txt list, parse raw HTML email
+# find unsubscribe link in parsed raw HTML email. click it 
+
